@@ -1,4 +1,6 @@
 flows:
+  c67b5868-8880-48f1-a1da-dc4e3dbe10bf: {ver: 1, file: flow_test.snapshot, comments: '',
+    author: anonymous, created: 1610433669714, flowName: flow_test, flowDesc: ''}
   aa7baf72-51e0-4d52-b82c-aacf77154374: {ver: 2, file: flow1.snapshot, comments: input1,
     author: anonymous, created: 1610008570208, flowName: flow1, flowDesc: ''}
 layoutVer: 1
